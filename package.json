@@ -1,0 +1,19 @@
+{
+  "name": "webpack-template",
+  "version": "1.0.0",
+  "description": "My Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElenaTibekina/Webpack-Template.git"
+  },
+  "author": "Elena Tibekina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElenaTibekina/Webpack-Template/issues"
+  },
+  "homepage": "https://github.com/ElenaTibekina/Webpack-Template#readme"
+}
